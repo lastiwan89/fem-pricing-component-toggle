@@ -12,7 +12,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 ### Links
 
 - Solution URL: [Github code repo](https://github.com/lastiwan89/fem-pricing-component-toggle)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://64d084310ad72939c1b83f54--sparkly-naiad-fb34a2.netlify.app/)
 
 ## My process
 
